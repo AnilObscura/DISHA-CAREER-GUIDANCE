@@ -72,7 +72,7 @@ Here is a visual walkthrough of the application:
 
 The central hub for students to track their progress, view important admission and deadline dates, and quickly navigate to the platform's core features.
 
-![Student Dashboard](PASTE_IMAGE_LINK_HERE)
+![Student Dashboard](https://github.com/AnilObscura/DISHA-CAREER-GUIDANCE/blob/1a701157db9be35ef732f19b258dc1cb33a00faa/s1.png)
 
 ---
 
@@ -80,7 +80,7 @@ The central hub for students to track their progress, view important admission a
 
 A powerful search and filtering interface that enables students to explore government colleges, available courses, eligibility criteria, fee structures, and other important details.
 
-![Government Colleges Directory](PASTE_IMAGE_LINK_HERE)
+![Government Colleges Directory](https://github.com/AnilObscura/DISHA-CAREER-GUIDANCE/blob/1a701157db9be35ef732f19b258dc1cb33a00faa/s2.png)
 
 ---
 
@@ -88,7 +88,7 @@ A powerful search and filtering interface that enables students to explore gover
 
 A dedicated learning portal providing free E-books, Video Courses, Practice Tests, and educational resources tailored to students' career goals and academic needs.
 
-![Study Resources Hub](PASTE_IMAGE_LINK_HERE)
+![Study Resources Hub](https://github.com/AnilObscura/DISHA-CAREER-GUIDANCE/blob/1a701157db9be35ef732f19b258dc1cb33a00faa/s3.png)
 
 ---
 
@@ -96,7 +96,7 @@ A dedicated learning portal providing free E-books, Video Courses, Practice Test
 
 A comprehensive view of individual learning resources, displaying detailed information, descriptions, and access to study materials for better learning.
 
-![Detailed Resource View](PASTE_IMAGE_LINK_HERE)
+![Detailed Resource View](https://github.com/AnilObscura/DISHA-CAREER-GUIDANCE/blob/1a701157db9be35ef732f19b258dc1cb33a00faa/s4.png)
 
 ---
 
@@ -104,7 +104,7 @@ A comprehensive view of individual learning resources, displaying detailed infor
 
 An intelligent AI-powered chatbot that provides personalized career guidance, answers student queries, and offers context-aware recommendations using Google's Gemini AI.
 
-![AI Mentor Chat Interface](PASTE_IMAGE_LINK_HERE)
+![AI Mentor Chat Interface](https://github.com/AnilObscura/DISHA-CAREER-GUIDANCE/blob/1a701157db9be35ef732f19b258dc1cb33a00faa/s5.png)
 
 ---
 
