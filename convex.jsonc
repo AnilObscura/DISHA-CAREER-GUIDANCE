@@ -1,0 +1,6 @@
+{
+  "project": "disha-catalyst",
+  "team": "catalyst",
+  "prodUrl": "https://your-prod-url.convex.cloud",
+  "functions": "convex/"
+}
